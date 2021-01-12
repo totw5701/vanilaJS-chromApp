@@ -19,6 +19,14 @@
   color: aliceblue;
 }
 
+.js-weather {
+  color: aliceblue;
+}
+
+.js-toDoList {
+  color: aliceblue;
+}
+
 @keyframes fadeIn {
   from {
     opacity: 0;
